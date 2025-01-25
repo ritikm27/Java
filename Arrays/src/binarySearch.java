@@ -11,7 +11,7 @@ public class binarySearch {
         int end=arr.length-1;
 
         int mid;
-//        mid=(start+end)/2;  // This can exceed the capacity of int in java as the size of array increas
+//        mid=(start+end)/2;  // This can exceed the capacity of int in java as the size of array increases
 
         while(start<=end)
         {
